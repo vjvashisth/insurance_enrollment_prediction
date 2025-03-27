@@ -1,0 +1,13 @@
+name: insurance-enrollment-ml
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - mlflow
+  - fastapi
+  - uvicorn
+  - joblib
